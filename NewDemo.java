@@ -1,1 +1,2 @@
-A,BFgajf
+public static void main{
+}
